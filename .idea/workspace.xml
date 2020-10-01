@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b14060-2ade-4661-8781-20eddfce98fc" name="Default Changelist" comment="" />
+    <list default="true" id="17b14060-2ade-4661-8781-20eddfce98fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/alpharevo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/alpharevo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/alpharevo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/netflix.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/netflix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iBy0GDJUUfIWaFo4wld3agV60V" />
   <component name="ProjectViewState">
@@ -25,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601395054562</updated>
-      <workItem from="1601395055628" duration="9601000" />
+      <workItem from="1601395055628" duration="9696000" />
+      <workItem from="1601534972693" duration="2001000" />
     </task>
     <servers />
   </component>
@@ -33,9 +44,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2587" y="253" width="585" height="592" key="find.popup" timestamp="1601404308920">
+    <state x="2587" y="253" width="585" height="616" key="find.popup" timestamp="1601536100612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2587" y="253" width="585" height="592" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601404308920" />
+    <state x="2587" y="253" width="585" height="616" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601536100612" />
   </component>
 </project>
